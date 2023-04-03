@@ -12,12 +12,6 @@
         "null"
       ]
     },
-    "group": {
-      "type": [
-        "string",
-        "null"
-      ]
-    },
     "parent": {
       "type": [
         "string",
